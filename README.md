@@ -26,9 +26,47 @@
 
 - 📫 How to reach me **mbozin94@gmail.com**
 
-## Projects:
+## Projects and Contributions:
 
 <table bordercolor="#66b2b2">
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Together</h3>
+        <br />
+        <a target="_blank" href="https://together.cyclic.app/">
+            <img src="images/Together.gif" width="100%" alt="100Devs Community Calendar App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Caleb-Cohen/Together" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://together.cyclic.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>ReactJS, TailwindCSS, Node.js, Express.js, MongoDB</strong> - Create and view community-wide events for the 40,000 member 100Devs Agency Discord.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Food Oasis</h3>
+        <br />
+      <a target="_blank" href="https://foodoasis.la/">
+            <img src="images/FoodOasis.gif" width="100%"  alt="Food Oasis App"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/hackforla/food-oasis" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://foodoasis.la/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>ReactJS, MaterialUI, Node.js, Express.js, PostgresSQL</strong> - The Food Oasis team is creating a directory of updated food resources for food-seekers in four major metropolitan areas.</p>
+    </td>
+  </tr>
   
   <tr>
     <td width="50%" valign="top">
