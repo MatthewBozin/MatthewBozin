@@ -1,6 +1,6 @@
 const Matthew = new FullStackSoftwareEngineer();
-Matthew.build(fairPay){
-  return new WebApp(beautiful, accessible, responsive);
+Matthew.build(fairPay){\n
+  return new WebApp(beautiful, accessible, responsive);\n
 };
 <!--
 **MatthewBozin/MatthewBozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
