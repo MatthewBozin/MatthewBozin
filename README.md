@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/matthew-bozin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/MattBCoding" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
@@ -69,17 +69,17 @@
 ## Languages and Tools:
 <p align="left">
 <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-<img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-<img src="https://img.shields.io/static/v1?label=|&message=NODEJS&color=3c7f5d&style=plastic&logo=nodejs"/> 
-<img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-<img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-<img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-<img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-<img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/> 
-<img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/> 
-<img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-<img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
-<img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
+<img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=4a935c&style=plastic&logo=javascript"/>
+<img src="https://img.shields.io/static/v1?label=|&message=NODEJS&color=4a935c&style=plastic&logo=nodejs"/> 
+<img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=4a935c&style=plastic&logo=mongodb"/>
+<img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=4a935c&style=plastic&logo=bootstrap"/>
+<img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=4a935c&style=plastic&logo=express"/>
+<img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=4a935c&style=plastic&logo=html5"/>
+<img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=4a935c&style=plastic&logo=css3"/> 
+<img src="https://img.shields.io/static/v1?label=|&message=GIT&color=4a935c&style=plastic&logo=git"/> 
+<img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=4a935c&style=plastic&logo=python"/>
+<img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=4a935c&style=plastic&logo=solidity"/>
+<img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=4a935c&style=plastic&logo=linux"/>
 </p>
 
 ## My Stats:
