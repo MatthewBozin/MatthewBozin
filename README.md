@@ -64,6 +64,37 @@
         <p><strong>ReactJS, Bootstrap, Javascript</strong> - Digital SRD companion app for the SEACAT roleplaying game.</p>
     </td>
   </tr>
+
+  <tr>
+  <td width="50%" valign="top">
+    <h3 align="center">ARC.doom</h3>
+    <br />
+    <a target="_blank" href="https://discord.com/oauth2/authorize?client_id=897339844160815124&permissions=0&scope=bot%20applications.commands">
+      <img src="images/ArcDoom.gif" width="100%" alt="ARC Discord Bot"/>
+    </a>
+    <br />
+    <p align="center">
+  <a href="https://discord.com/oauth2/authorize?client_id=897339844160815124&permissions=0&scope=bot%20applications.commands" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>DiscordJS, Javascript, Node.js</strong> - A Discord bot that helps play the ARC tabletop roleplaying game!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">UVG Digital Referee Screen</h3>
+        <br />
+      <a target="_blank" href="https://srdcat.app/">
+            <img src="images/SRDcat.gif" width="100%"  alt="Digital tabletop SRD"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://www.wizardthieffighter.com/tools/uvg-digital-referee-screen.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Javascript</strong> - A digital guide to the Ultraviolet Grasslands tabletop setting!</p>
+    </td>
+  </tr>
 </table>
 
 ## Languages and Tools:
