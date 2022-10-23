@@ -84,7 +84,7 @@
       <h3 align="center">UVG Digital Referee Screen</h3>
         <br />
       <a target="_blank" href="https://srdcat.app/">
-            <img src="images/SRDcat.gif" width="100%"  alt="Digital tabletop SRD"/>
+            <img src="images/UVGDRS.gif" width="100%"  alt="Digital tabletop SRD"/>
         </a>
         <br />
         <p align="center">
