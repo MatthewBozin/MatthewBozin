@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m happy to answer any questions, feel welcome to **reach out**! 
+- 🤝 I’m happy to answer any questions, feel welcome to **reach out**!
 
 - 👨‍💻 All of my projects are available at [https://matthewbozin.netlify.app/](https://matthewbozin.netlify.app/)
 
@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>ReactJS, MaterialUI, Node.js, Express.js, MongoDB</strong> - Remix classic poems into strange and silly products of your imagination!</p>
+        <p><strong>ReactJS, MaterialUI, Node.js, Express.js, MongoDB</strong> - Break down classic poems and remix them into new ones by rearranging lines and title words! Post your poems to a feed, comment with smaller poems, and snap along to your favorites!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">SRDcat</h3>
@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>ReactJS, Bootstrap, Javascript</strong> - Digital SRD companion app for the SEACAT roleplaying game.</p>
+        <p><strong>ReactJS, Bootstrap, Javascript</strong> - Digital SRD companion app for the WizardThiefFighter Studio's SEACAT roleplaying game. Generate characters, roll skill checks, purchase/sell items, and make attacks using a mobile-friendly interface.</p>
     </td>
   </tr>
 
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>DiscordJS, Javascript, Node.js</strong> - A Discord bot that helps play the ARC tabletop roleplaying game!</p>
+        <p><strong>DiscordJS, Javascript, Node.js</strong> - A Discord bot that helps play the award-winning ARC tabletop roleplaying game! Generate characters, sync up to character sheets using Google Cloud integration, manage a Doomsday Clock, and look up game terminology from the built-in SRD database.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">UVG Digital Referee Screen</h3>
@@ -95,12 +95,13 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - A digital guide to the Ultraviolet Grasslands tabletop setting!</p>
+        <p><strong>HTML, CSS, Javascript</strong> - A digital guide to the Ultraviolet Grasslands tabletop setting, featuring a digital version of every random table in the book!</p>
     </td>
   </tr>
 </table>
 
 ## Languages and Tools:
+
 <p align="left">
 <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
 <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=4a935c&style=plastic&logo=javascript"/>
