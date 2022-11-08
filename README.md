@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>DiscordJS, Javascript, Node.js</strong> - A Discord bot that helps play the award-winning ARC tabletop roleplaying game! Generate characters, sync up to character sheets using Google Cloud integration, manage a Doomsday Clock, and look up game terminology from the built-in SRD database.</p>
+        <p><strong>DiscordJS, Node.js, Google Cloud API, Canvas</strong> - A Discord bot that helps play the award-winning ARC tabletop roleplaying game! Generate characters, sync up to character sheets using Google Cloud integration, manage a Doomsday Clock, and look up game terminology from the built-in SRD database.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">UVG Digital Referee Screen</h3>
