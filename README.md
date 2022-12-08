@@ -34,7 +34,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Caesura</h3>
         <br />
-        <a target="_blank" href="https://caesura-poem-remixer.herokuapp.com/">
+        <a target="_blank" href="https://caesura.cyclic.app/">
             <img src="images/Caesura.gif" width="100%" alt="Poetry Remixer App"/>
         </a>
         <br />
