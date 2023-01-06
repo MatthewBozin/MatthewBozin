@@ -35,7 +35,7 @@
       <h3 align="center">Together</h3>
         <br />
         <a target="_blank" href="https://together.cyclic.app/">
-            <img src="images/Together.gif" width="100%" alt="100Devs Community Calendar App"/>
+            <img src="images/TOGETHER.gif" width="100%" alt="100Devs Community Calendar App"/>
         </a>
         <br />
         <p align="center">
@@ -52,7 +52,7 @@
       <h3 align="center">Food Oasis</h3>
         <br />
         <a target="_blank" href="https://foodoasis.la/">
-            <img src="images/FoodOasis.gif" width="100%"  alt="Food Oasis App"/>
+            <img src="images/FOODOASIS.gif" width="100%"  alt="Food Oasis App"/>
         </a>
         <br />
         <p align="center">
