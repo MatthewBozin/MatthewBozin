@@ -16,7 +16,7 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on [Caesura](https://caesura-poem-remixer.herokuapp.com/), [Together](https://github.com/Caleb-Cohen/Together), and [Food Oasis](https://foodoasis.la/)
+- 🔭 I’m currently working on [Caesura](https://caesura-poem-remixer.herokuapp.com/) and contributing to [Together](https://github.com/Caleb-Cohen/Together) and [Food Oasis](https://foodoasis.la/)
 
 - 👯 I’m looking to collaborate on **open source projects**
 
