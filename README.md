@@ -39,32 +39,31 @@
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/Caleb-Cohen/Together" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://together.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+          <a href="https://github.com/Caleb-Cohen/Together" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="https://together.cyclic.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
       </p>
-        <p><strong>ReactJS, TailwindCSS, Node.js, Express.js, MongoDB</strong> - Create and view community-wide events for the 40,000 member 100Devs Agency Discord.</p>
+      <p><strong>ReactJS, TailwindCSS, Node.js, Express.js, MongoDB</strong> - Create and view community-wide events for the 40,000 member 100Devs Agency Discord.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Food Oasis</h3>
         <br />
-      <a target="_blank" href="https://foodoasis.la/">
+        <a target="_blank" href="https://foodoasis.la/">
             <img src="images/FoodOasis.gif" width="100%"  alt="Food Oasis App"/>
         </a>
         <br />
         <p align="center">
-  <a href="https://github.com/hackforla/food-oasis" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://foodoasis.la/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+          <a href="https://github.com/hackforla/food-oasis" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="https://foodoasis.la/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
       </p>
-        <p><strong>ReactJS, MaterialUI, Node.js, Express.js, PostgresSQL</strong> - The Food Oasis team is creating a directory of updated food resources for food-seekers in four major metropolitan areas.</p>
+      <p><strong>ReactJS, MaterialUI, Node.js, Express.js, PostgresSQL</strong> - The Food Oasis team is creating a directory of updated food resources for food-seekers in four major metropolitan areas.</p>
     </td>
   </tr>
   
@@ -77,32 +76,31 @@
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/MatthewBozin/Caesura" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://caesura.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+        <a href="https://github.com/MatthewBozin/Caesura" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://caesura.cyclic.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
       </p>
-        <p><strong>ReactJS, MaterialUI, Node.js, Express.js, MongoDB</strong> - Break down classic poems and remix them into new ones by rearranging lines and title words! Post your poems to a feed, comment with smaller poems, and snap along to your favorites!</p>
+      <p><strong>ReactJS, MaterialUI, Node.js, Express.js, MongoDB</strong> - Break down classic poems and remix them into new ones by rearranging lines and title words! Post your poems to a feed, comment with smaller poems, and snap along to your favorites!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">SRDcat</h3>
         <br />
-      <a target="_blank" href="https://srdcat.app/">
+        <a target="_blank" href="https://srdcat.app/">
             <img src="images/SRDcat.gif" width="100%"  alt="Digital tabletop SRD"/>
         </a>
         <br />
         <p align="center">
-  <a href="https://github.com/MatthewBozin/SRDCAT" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://srdcat.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+          <a href="https://github.com/MatthewBozin/SRDCAT" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="https://srdcat.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
       </p>
-        <p><strong>ReactJS, Bootstrap, Javascript</strong> - Digital SRD companion app for the WizardThiefFighter Studio's SEACAT roleplaying game. Generate characters, roll skill checks, purchase/sell items, and make attacks using a mobile-friendly interface.</p>
+      <p><strong>ReactJS, Bootstrap, Javascript</strong> - Digital SRD companion app for the WizardThiefFighter Studio's SEACAT roleplaying game. Generate characters, roll skill checks, purchase/sell items, and make attacks using a mobile-friendly interface.</p>
     </td>
   </tr>
 
@@ -115,25 +113,25 @@
     </a>
     <br />
     <p align="center">
-  <a href="https://discord.com/oauth2/authorize?client_id=897339844160815124&permissions=0&scope=bot%20applications.commands" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+      <a href="https://discord.com/oauth2/authorize?client_id=897339844160815124&permissions=0&scope=bot%20applications.commands" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+      </a>
       </p>
-        <p><strong>DiscordJS, Node.js, Google Cloud API, Canvas</strong> - A Discord bot that helps play the award-winning ARC tabletop roleplaying game! Generate characters, sync up to character sheets using Google Cloud integration, manage a Doomsday Clock, and look up game terminology from the built-in SRD database.</p>
+      <p><strong>DiscordJS, Node.js, Google Cloud API, Canvas</strong> - A Discord bot that helps play the award-winning ARC tabletop roleplaying game! Generate characters, sync up to character sheets using Google Cloud integration, manage a Doomsday Clock, and look up game terminology from the built-in SRD database.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">UVG Digital Referee Screen</h3>
         <br />
-      <a target="_blank" href="https://srdcat.app/">
+        <a target="_blank" href="https://srdcat.app/">
             <img src="images/UVGDRS.gif" width="100%"  alt="Digital tabletop SRD"/>
         </a>
         <br />
         <p align="center">
-  <a href="https://www.wizardthieffighter.com/tools/uvg-digital-referee-screen.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+        <a href="https://www.wizardthieffighter.com/tools/uvg-digital-referee-screen.html" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - A digital guide to the Ultraviolet Grasslands tabletop setting, featuring a digital version of every random table in the book!</p>
+      <p><strong>HTML, CSS, Javascript</strong> - A digital guide to the Ultraviolet Grasslands tabletop setting, featuring a digital version of every random table in the book!</p>
     </td>
   </tr>
 </table>
