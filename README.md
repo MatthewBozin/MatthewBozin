@@ -63,7 +63,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
       </p>
-      <p><strong>ReactJS, MaterialUI, Node.js, Express.js, PostgresSQL</strong> - The Food Oasis team is creating a directory of updated food resources for food-seekers in four major metropolitan areas.</p>
+      <p><strong>ReactJS, Node.js, TypeScript, Express.js, PostgresSQL, MaterialUI, </strong> - The Food Oasis team is creating a directory of updated food resources for food-seekers in four major metropolitan areas.</p>
     </td>
   </tr>
   
@@ -83,7 +83,7 @@
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
       </p>
-      <p><strong>ReactJS, MaterialUI, Node.js, Express.js, MongoDB</strong> - Break down classic poems and remix them into new ones by rearranging lines and title words! Post your poems to a feed, comment with smaller poems, and snap along to your favorites!</p>
+      <p><strong>ReactJS, Node.js, TypeScript, Express.js, MongoDB, MaterialUI</strong> - Break down classic poems and remix them into new ones by rearranging lines and title words! Post your poems to a feed, comment with smaller poems, and snap along to your favorites!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">SRDcat</h3>
